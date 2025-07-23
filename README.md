@@ -50,7 +50,7 @@ NetBeans IDE – Developed using the NetBeans IDE.
 📂 Project Structure:
 
 JAVALOTTERYBET/
-│
+
 ├── assets/             # Project assets (add your logo here)
 
 ├── backend/            # J2SE source code for logic and algorithms
