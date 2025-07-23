@@ -3,6 +3,7 @@
 ![Python Database X-AI ORM Logo](./assets/lotterybet_lg.jpg)
 
 Developed by #asytrick
+
 📧 Contact: eusmool@gmail.com
 
 📁 Project Overview:
@@ -36,7 +37,8 @@ java -jar "ApostaCerto.jar"
 
 Make sure you have Java JDK 8+ installed.
 
-🧱 Technologies Used
+🧱 Technologies Used:
+
 Java JDK (J2SE) – Powered by the Java Platform, originally developed by Sun Microsystems, now maintained by Oracle.
 
 Java Swing – Used for the front-end window management in the frontend/ directory.
@@ -45,19 +47,22 @@ Apache Maven – Project build automation and versioning system.
 
 NetBeans IDE – Developed using the NetBeans IDE.
 
-📂 Project Structure
-graphql
-Copiar
-Editar
+📂 Project Structure:
+
 JAVALOTTERYBET/
 │
 ├── assets/             # Project assets (add your logo here)
+
 ├── backend/            # J2SE source code for logic and algorithms
+
 ├── frontend/           # Java Swing GUI components
+
 ├── bin/                # Compiled .jar file (ApostaCerto.jar)
+
 └── README.md           # Project documentation
 
-🧩 Features
+🧩 Features:
+
 Generates suggested lottery bets with advanced filters and logic.
 
 Handles number combinations intelligently for 60-number grids.
@@ -68,15 +73,14 @@ Lightweight, portable .jar application.
 
 Fully open-source and extensible.
 
-🔧 Requirements
-Java JDK 8 or newer
-Download JDK from Oracle
+🔧 Requirements:
 
-Maven (for building from source)
-Maven Website
+Java JDK 8 or newer - Download JDK from Oracle
 
-NetBeans IDE (optional for development)
-NetBeans Official Site
+Maven (for building from source) - Maven Website
 
-📌 About
+NetBeans IDE (optional for development) - NetBeans Official Site
+
+📌 About:
+
 This project was developed by #asytrick with the purpose of assisting users in generating strategic lottery bets through a user-friendly Java application. It combines number logic, statistical filtering, and a visual interface.
