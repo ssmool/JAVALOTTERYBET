@@ -1,4 +1,4 @@
-🎯 ApostaCerto - Smart Lottery Betting with Java
+🎯 JAVALOTTERYBET - Smart Lottery Betting with Java
 
 ![Python Database X-AI ORM Logo](./assets/lotterybet_lg.jpg)
 
@@ -7,7 +7,7 @@ Developed by #asytrick
 
 📁 Project Overview:
 
-ApostaCerto is a Java-based software for generating smart betting suggestions for lottery-type games with number grids of up to 60 numbers. It offers both backend logic and a frontend window manager using Java Swing, powered by Java 2 Software Development Kit (JDK) and executed via the Java Virtual Machine (JVM).
+JAVALOTTERYBET is a Java-based software for generating smart betting suggestions for lottery-type games with number grids of up to 60 numbers. It offers both backend logic and a frontend window manager using Java Swing, powered by Java 2 Software Development Kit (JDK) and executed via the Java Virtual Machine (JVM).
 
 This repository includes:
 
