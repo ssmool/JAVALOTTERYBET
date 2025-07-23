@@ -5,7 +5,8 @@
 Developed by #asytrick
 📧 Contact: eusmool@gmail.com
 
-📁 Project Overview
+📁 Project Overview:
+
 ApostaCerto is a Java-based software for generating smart betting suggestions for lottery-type games with number grids of up to 60 numbers. It offers both backend logic and a frontend window manager using Java Swing, powered by Java 2 Software Development Kit (JDK) and executed via the Java Virtual Machine (JVM).
 
 This repository includes:
